@@ -4,10 +4,17 @@
     <title>Solopreneur Email Marketing Hub</title>
     <link>https://solopreneur-email-marketing-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 06:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:04:51 GMT</lastBuildDate>
     <atom:link href="https://solopreneur-email-marketing-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                <item>
+                                                    <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/solopreneur-email-marketing-hub/#solopreneur-email-marketing-hub-github-20260925-1-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:04:51 GMT</pubDate>
+      <description>Newly verified community added to Solopreneur Email Marketing Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
       <link>https://users.rust-lang.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/solopreneur-email-marketing-hub/#solopreneur-email-marketing-hub-github-20260924-1-2026-09-24</guid>
